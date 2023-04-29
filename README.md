@@ -34,3 +34,10 @@ $ exit
 # inside poetry shell
 $ pytest ./test/**/*
 ```
+
+### Formatting
+
+```sh
+# inside poetry shell
+$ black ./test/
+```

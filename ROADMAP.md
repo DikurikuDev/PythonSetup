@@ -6,7 +6,8 @@
 - - - [x] test runner
 - - - [ ] code coverage
 - - - [ ] branch Testing
-- - [ ] linter
+- - [x] code formatter
+- - [ ] code linter
 - [ ] file support
 - - [ ] .z handler
 - - [ ] .impak handler
