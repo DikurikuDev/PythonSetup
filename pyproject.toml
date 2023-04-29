@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "steamworld-extractor"
+version = "0.1.0"
+description = "A extractor/compressor tool to handle SteamWorld compressed files."
+authors = ["Dikuriku <dikuriku.dev@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "steamworld_extractor"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -11,7 +11,7 @@ A extractor/compressor tool to handle SteamWorld compressed files.
 ## ROADMAP
 
 - [ ] setup
-- - [ ] dependency manager
+- - [x] dependency manager
 - - [ ] test runner
 - - [ ] linter
 - [ ] file support
@@ -23,3 +23,9 @@ A extractor/compressor tool to handle SteamWorld compressed files.
 - - [ ] redirection support
 - [ ] GUI (Graphical user interface)
 - [ ] installer
+
+## Getting Started
+
+### Requirements
+
+- Poetry
