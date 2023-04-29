@@ -10,8 +10,16 @@ A extractor/compressor tool to handle SteamWorld compressed files.
 
 ## ROADMAP
 
-- [ ] .z handler
-- [ ] .impak handler
+- [ ] setup
+- - [ ] dependency manager
+- - [ ] test runner
+- - [ ] linter
+- [ ] file support
+- - [ ] .z handler
+- - [ ] .impak handler
 - [ ] CLI (Command-line interface)
+- - [ ] bash completation
+- - [ ] piping support
+- - [ ] redirection support
 - [ ] GUI (Graphical user interface)
 - [ ] installer
