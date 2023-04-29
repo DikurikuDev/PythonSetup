@@ -41,3 +41,9 @@ $ pytest ./test/**/*
 # inside poetry shell
 $ black ./test/
 ```
+### Linting
+
+```sh
+# inside poetry shell
+$ flake8 ./test/
+```

@@ -7,7 +7,7 @@
 - - - [ ] code coverage
 - - - [ ] branch Testing
 - - [x] code formatter
-- - [ ] code linter
+- - [x] code linter
 - [ ] file support
 - - [ ] .z handler
 - - [ ] .impak handler
