@@ -1,2 +1,2 @@
-def test_it_whould_work():
+def test_it_should_work():
     assert True
