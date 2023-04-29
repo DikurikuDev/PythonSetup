@@ -2,7 +2,10 @@
 
 - [ ] setup
 - - [x] dependency manager
-- - [ ] test runner
+- - [ ] testing
+- - - [x] test runner
+- - - [ ] code coverage
+- - - [ ] branch Testing
 - - [ ] linter
 - [ ] file support
 - - [ ] .z handler
