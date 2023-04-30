@@ -4,7 +4,7 @@
 - - [x] dependency manager
 - - [ ] testing
 - - - [x] test runner
-- - - [ ] code coverage
+- - - [x] code coverage
 - - - [ ] branch Testing
 - - [x] code formatter
 - - [x] code linter
