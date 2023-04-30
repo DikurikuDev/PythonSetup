@@ -17,3 +17,4 @@
 - - [ ] redirection support
 - [ ] GUI (Graphical user interface)
 - [ ] installer
+- [ ] check the minimum python version
