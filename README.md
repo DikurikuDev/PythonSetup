@@ -35,15 +35,15 @@ $ exit
 $ pytest ./
 ```
 
-### Formatting
+### Others
 
 ```sh
-# inside poetry shell
+# Formatting and linting will run at git commit
+# however you can run it at will (inside poetry shell)
+
+# Formatting
 $ black ./
-```
-### Linting
 
-```sh
-# inside poetry shell
+# Linting
 $ flake8 ./
 ```
