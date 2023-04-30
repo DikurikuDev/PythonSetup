@@ -12,6 +12,7 @@ A extractor/compressor tool to handle SteamWorld compressed files.
 
 ### Requirements
 
+- Python >= 3.10
 - Poetry
 
 ### How to use poetry
