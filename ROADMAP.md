@@ -2,7 +2,7 @@
 
 - [x] setup
 - - [x] dependency manager
-- - [ ] testing
+- - [x] testing
 - - - [x] test runner
 - - - [x] code coverage
 - - - [x] branch Testing
