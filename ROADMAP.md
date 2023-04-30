@@ -1,11 +1,11 @@
 # ROADMAP
 
-- [ ] setup
+- [x] setup
 - - [x] dependency manager
 - - [ ] testing
 - - - [x] test runner
 - - - [x] code coverage
-- - - [ ] branch Testing
+- - - [x] branch Testing
 - - [x] code formatter
 - - [x] code linter
 - [ ] file support

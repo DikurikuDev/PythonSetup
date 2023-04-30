@@ -3,6 +3,6 @@
         79
     ],
     "python.analysis.extraPaths": [
-        "./src/core/"
+        "./src/core"
     ]
 }
