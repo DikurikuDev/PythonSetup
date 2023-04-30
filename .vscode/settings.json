@@ -1,0 +1,13 @@
+{
+    "editor.rulers": [
+        79
+    ],
+    "python.analysis.extraPaths": [
+        "./src"
+    ],
+    "files.exclude": {
+        ".pytest_cache/": true,
+        ".tox/": true,
+        "**/__pycache__/": true,
+    }
+}
