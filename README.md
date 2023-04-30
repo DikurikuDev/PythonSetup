@@ -32,18 +32,18 @@ $ exit
 
 ```sh
 # inside poetry shell
-$ pytest ./src/
+$ pytest ./
 ```
 
 ### Formatting
 
 ```sh
 # inside poetry shell
-$ black ./src/
+$ black ./
 ```
 ### Linting
 
 ```sh
 # inside poetry shell
-$ flake8 ./src/
+$ flake8 ./
 ```
