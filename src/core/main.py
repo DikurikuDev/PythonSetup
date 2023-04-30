@@ -6,4 +6,7 @@ def fun1(x):
 
 
 def fun2(x):
-    return x + 2
+    if x == 1:
+        return x + 1
+    else:
+        return 0
