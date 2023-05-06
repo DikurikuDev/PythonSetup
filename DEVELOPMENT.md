@@ -1,12 +1,5 @@
 # Development Guidelines
 
-The main goal of this project is to practice best practices for collaborating
-with Python projects. The setup has TDD in mind, but you do not need to do it
-in the PR. Just create a minimal test for the main feature, but maintaining
-the coverage above 80% would be ideal. Also, try to keep the number of commits
-low. Consider using squashing them and a more detailed git commit message.
-
-
 ## Requirements
 
 - Python >= 3.9

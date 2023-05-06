@@ -1,13 +1,12 @@
 {
-    "editor.rulers": [
-        79
-    ],
-    "python.analysis.extraPaths": [
-        "./src"
-    ],
-    "files.exclude": {
-        ".pytest_cache/": true,
-        ".tox/": true,
-        "**/__pycache__/": true,
-    }
+  "editor.rulers": [79],
+  "python.analysis.extraPaths": ["./src"],
+  "files.exclude": {
+    ".coverage": true,
+    ".pytest_cache/": true,
+    ".tox/": true,
+    ".venv/": true,
+    "**/__pycache__/": true,
+    "coverage.xml": true
+  }
 }
