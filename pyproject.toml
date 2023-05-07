@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "steamworld-extractor"
+name = "python-setup"
 version = "0.1.0"
-description = "A extractor/compressor tool to handle SteamWorld compressed files."
+description = "A personal boilerplate setup for Python projects."
 authors = ["Dikuriku <dikuriku.dev@gmail.com>"]
 license = "MIT"
 readme = "README.md"
