@@ -21,8 +21,6 @@ testing, and test coverage on GitHub Action (main branch only)
 
 ## Getting started
 
-
-
 ```sh
 #  to run the code:
 #  1 - Install dependencies.
